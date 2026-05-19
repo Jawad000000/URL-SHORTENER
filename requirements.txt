@@ -28,6 +28,9 @@ mdurl==0.1.2
 packaging==26.2
 pluggy==1.6.0
 pydantic==2.13.4
+PyJWT==2.12.1
+passlib==1.7.4
+bcrypt==4.3.0
 pydantic-extra-types==2.11.1
 pydantic-settings==2.14.1
 pydantic_core==2.46.4
