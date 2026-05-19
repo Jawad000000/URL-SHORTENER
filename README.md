@@ -1,6 +1,6 @@
 # URL Shortener API
 
-A production-ready URL shortener backend built with FastAPI.
+A URL shortener backend built with FastAPI.
 
 ## Stack
 
