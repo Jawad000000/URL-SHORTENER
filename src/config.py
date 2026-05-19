@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     JWT_ALGORITHM: str
     REDIS_HOST: str = 'localhost'
     REDIS_PORT: int = 6379
-    TEST_DATABASE_URL: str
+    TEST_DATABASE_URL: str | None = None
     RATE_LIMIT_MAX: int = 10
     RATE_LIMIT_WINDOW: int = 60
 
